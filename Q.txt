@@ -1,0 +1,19 @@
+q1
+class:
+a template that defines the attributes and behaviors (methods) of objects
+it does not occupy memory until an object is created from it
+object:
+an instance of a class. It is a concrete entity that occupies memory
+it contains actual data and can perform actions defined in the class
+--------------------------------------------------------------------
+q2
+getters:
+getters are methods used to retrieve the value of a private attribute
+setters:
+setters are methods used to modify the value of a private attribute
+-----------------------------------------------------------------
+q3
+public:
+u can access from anywhere in class and out of class
+private:
+u can access only in class

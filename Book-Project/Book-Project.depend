@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742409572 source:d:\sec 2\book-project\main.cpp
+	<iostream>
+	"book.h"
+
+1744995768 d:\sec 2\book-project\book.h
+	<iostream>
+	<string>
+
+1744995749 source:d:\sec 2\book-project\book.cpp
+	"book.h"
+	<iostream>
+
